@@ -1,1 +1,1 @@
-const divThree=document.querySelector('divThree')
+const divThree=document.querySelector('#divThree')
