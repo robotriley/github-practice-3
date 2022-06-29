@@ -1,0 +1,1 @@
+const divThree=document.querySelector('divThree')
